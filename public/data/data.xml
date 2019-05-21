@@ -1,0 +1,11 @@
+<markers>
+	<marker id="1" name="Kebun Salak Pondoh" address="7 ha" produktivitas="3 ku/ha" rating="4/5" lat="-7.609039" lng="110.390082" type="bar"/>
+	<marker id="2" name="Kolam ikan lele" address="3 ha" produktivitas="2 ku/ha" rating="3/5" lat="-7.603286" lng="110.393971" type="bar"/>
+	<marker id="3" name="Kebun Jagung" address="8 ha" produktivitas="4 ku/ha" rating="5/5" lat="-7.606233" lng=" 110.372626" type="bar"/>
+	<marker id="4" name="Kebun Sawi" address="5 ha" produktivitas="1 ku/ha" rating="4/5" lat="-7.5931026" lng="110.3709607" type="bar"/>
+	<marker id="5" name="Peternakan Bebek" address="10 ha" produktivitas="7 ku/ha" rating="5/5" lat="-7.5824397" lng="110.3131373" type="bar"/>
+	<marker id="6" name="Kebun Kopi" address="16 ha" produktivitas="8 ku/ha" rating="5/5" lat="-7.6228499" lng="110.4863288" type="bar"/>
+	<marker id="7" name="Peternakan Ayam" address="8 ha" produktivitas="3 ku/ha" rating="4/5" lat="-7.6415262" lng="110.4702826" type="bar"/>
+	<marker id="8" name="Hutan Jati" address="20 ha" produktivitas="1 ku/ha" rating="3/5" lat="-7.6273503" lng="110.527487" type="bar"/>
+	<marker id="9" name="Kebun Kelapa" address="12 ha" produktivitas="4 ku/ha" rating="4/5" lat="-7.6417442" lng="110.4525548" type="bar"/>
+</markers>
