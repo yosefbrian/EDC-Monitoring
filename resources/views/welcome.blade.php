@@ -232,7 +232,7 @@
                         <i style="color: blue" class="fh5co-intro-icon icon-industry"></i>
                         <h2>Data EDC</h2>
                         <p>Berisi Data EDC Yang Dikelola Cabang. Baik dari segi pemilik, jenis mesin, MDR, maupun jumlah transaksi di EDC tersebut</p>
-                        <p><a href="http://localhost/EDC_MONITORING/edc_monitoring/public/home" class="btn btn-info">Mulai</a></p>
+                        <p><a href="http://localhost/edc-monitoring/public/home" class="btn btn-info">Mulai</a></p>
                     </div>
                 </div>
                 <div class="fh5co-block to-animate" style="background-image: url(images/agrobiz.jpg); margin-bottom: 1px ">

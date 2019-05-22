@@ -40,7 +40,7 @@
       <td>Otto</td>
       <td>@mdo</td>
       <td><button type="button" class="btn btn-primary"  data-toggle="modal" data-target="#modalDetail">Detail</button> 
-        <a href="http://localhost/EDC_MONITORING/edc_monitoring/public/data_transaksi" type="button" class="btn btn-success">Data Transaksi</a></td>
+        <a href="http://localhost/edc-monitoring/public/data_transaksi" type="button" class="btn btn-success">Data Transaksi</a></td>
     </tr>
     <tr>
       <th scope="row">2l2l332</th>
