@@ -19,3 +19,6 @@ Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
 Route::get('/data_transaksi', 'HomeController@data_transaksi')->name('data_transaksi');
+Route::get('/pengajuan', 'HomeController@pengajuan')->name('pengajuan');
+
+Route::get('/perbaikan', 'HomeController@perbaikan')->name('perbaikan');

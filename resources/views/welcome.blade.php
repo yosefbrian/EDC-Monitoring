@@ -242,7 +242,7 @@
                         <i style="color: blue" class="fh5co-intro-icon icon-shopping-cart"></i>
                         <h2>Pengajuan EDC</h2>
                         <p> Berisi data merchant yang melakukan pengajuan EDC di wilayah cabang beserta status pengajuannya</p>
-                        <p><a href="agrobiz.html" class="btn btn-info">Mulai</a></p>
+                        <p><a href="http://localhost/edc-monitoring/public/pengajuan" class="btn btn-info">Mulai</a></p>
                     </div>
                 </div>
                 <div class="fh5co-block to-animate" style="background-image: url('images/agropedia.jpg'); ">
@@ -252,7 +252,7 @@
                         <i style="color: blue" class="fh5co-intro-icon icon-bulb"></i>
                         <h2>Perbaikan EDC</h2>
                         <p>Berisi data merchant yang melakukan pelaporan terkait kerusakan EDC dan status perbaikannya</p>
-                        <p ><a href="agroPedia.html" class="btn btn-info">Mulai</a></p>
+                        <p ><a href="http://localhost/edc-monitoring/public/perbaikan" class="btn btn-info">Mulai</a></p>
                     </div>
                 </div>
             </div>

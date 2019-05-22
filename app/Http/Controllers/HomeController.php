@@ -30,4 +30,14 @@ class HomeController extends Controller
     {
         return view('dataTransaksi');
     }
+
+    public function pengajuan()
+    {
+        return view('pengajuan');
+    }
+
+    public function perbaikan()
+    {
+        return view('perbaikan');
+    }
 }
