@@ -182,7 +182,7 @@
     <header role="banner" >
             <div class="container">
                 <!-- <div class="row"> -->
-                <nav class="navbar-fixed-top" style="background-color: white; margin-left: 0px; margin-right: 0px; opacity: 0.7">
+                <nav class="navbar-fixed-top" style="background-color: white; margin-left: 0px; margin-right: 0px; opacity: 0.9">
                 <div class="navbar-header">
                     <!-- Mobile Toggle Menu Button -->
                     <a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i></i></a>
@@ -191,12 +191,12 @@
                 </div>
                 <div id="navbar" class="navbar-collapse collapse">
                   <ul class="nav navbar-nav navbar-right" style="margin-right: 30px">
-                    <li class="active"><a href="#"><span>Home</span></a></li>
-                    <li><a href="agrostore.html">Data EDC</a></li>
-                    <li><a href="agrobiz.html"><span>Pengajuan EDC</span></a></li>
-                    <li><a href="#"><span>Perbaikan EDC</span></a></li>
-                    <li><a href="#"><span>About</span></a></li>
-                    <li><a href="#"><span>Contact</span></a></li>
+                    <li class="active"><a style="color: orange" href="#"><span>Home</span></a></li>
+                    <li><a style="color: orange" href="agrostore.html">Data EDC</a></li>
+                    <li><a style="color: orange"  href="agrobiz.html"><span>Pengajuan EDC</span></a></li>
+                    <li><a style="color: orange" href="#"><span>Perbaikan EDC</span></a></li>
+                    <li><a style="color: orange" href="#"><span>About</span></a></li>
+                    <li><a style="color: orange" href="#"><span>Contact</span></a></li>
                   </ul>
                 </div>
                 </nav>
@@ -225,7 +225,7 @@
     <section id="fh5co-intro" style="margin-top: 100px"  align="center">
         <div class="container" >
             <div class="row row-bottom-padded-lg" style="margin: 5px">
-                <div class="fh5co-block to-animate" style="background-image: url(http://localhost/bibitku/elate/images/agromart.jpg); margin-bottom: 1px">
+                <div class="fh5co-block to-animate" style="background-image: url(images/agromart.jpg); margin-bottom: 1px ">
                     <div class="overlay-darker"></div>
                     <div class="overlay"></div>
                     <div class="fh5co-text">
