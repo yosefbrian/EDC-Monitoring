@@ -22,42 +22,41 @@
 <table class="table">
   <thead>
     <tr>
-      <th scope="col">Nomor Seri</th>
-      <th scope="col">Merchant</th>
-      <th scope="col">PIC</th>
-      <th scope="col">Tanggal Terima</th>
-      <th scope="col">Jenis EDC</th>
+      <th scope="col">Nama Merchant</th>
+      <th scope="col">Nama Penghubung</th>
+      <th scope="col">Tanggal Pengajuan</th>
+      <th scope="col">Jumlah EDC</th>
+      <th scope="col">Status Pengajuan</th>
       <th scope="col"> Keterangan </th>
-      <th scope="col">  </th>
+      <th scope="col"></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th scope="row">1kdew92</th>
-      <td>Mark</td>
-      <td>Otto</td>
-      <td>@mdo</td>
-      <td>Otto</td>
-      <td>@mdo</td>
-      <td><button type="button" class="btn btn-primary"  data-toggle="modal" data-target="#modalDetail">Detail</button> 
-        <a href="http://localhost/edc-monitoring/public/data_transaksi" type="button" class="btn btn-success">Data Transaksi</a></td>
+      <th scope="row">PT Maju Jiwa</th>
+      <td>Rudi Andrean</td>
+      <td>03 Maret 2019</td>
+      <td>2</td>
+      <td>Telah Diterima</td>
+      <td>Merchant meminta EDC jenis baru</td>
+      <td><button type="button" class="btn btn-primary"  data-toggle="modal" data-target="#modalDetail">Detail</button>
     </tr>
     <tr>
-      <th scope="row">2l2l332</th>
-      <td>Jacob</td>
-      <td>Thornton</td>
-      <td>@fat</td>
-      <td>Otto</td>
-      <td>@mdo</td>
+      <th scope="row">Roka Elektronik</th>
+      <td>Jacob Nurhadi</td>
+      <td>19 Maret 2019</td>
+      <td>1</td>
+      <td>Sedang Diproses</td>
+      <td>-</td>
       <td><button type="button" class="btn btn-primary">Detail</button></td>
     </tr>
     <tr>
-      <th scope="row">2323233</th>
-      <td>Larry</td>
-      <td>the Bird</td>
-      <td>@twitter</td>
-      <td>Otto</td>
-      <td>@mdo</td>
+      <th scope="row">Kontal Pte. Ltd.</th>
+      <td>Larry Sam</td>
+      <td>15 April 2019</td>
+      <td>1</td>
+      <td>Sedang Diproses</td>
+      <td>Barang masih inden</td>
       <td><button type="button" class="btn btn-primary">Detail</button></td>
     </tr>
   </tbody>

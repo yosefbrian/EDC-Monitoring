@@ -240,7 +240,7 @@
                     <div class="overlay"></div>
                     <div class="fh5co-text">
                         <i style="color: blue" class="fh5co-intro-icon icon-shopping-cart"></i>
-                        <h2>Pengajuan EDC</h2>
+                        <h2>Data Pengajuan EDC</h2>
                         <p> Berisi data merchant yang melakukan pengajuan EDC di wilayah cabang beserta status pengajuannya</p>
                         <p><a href="http://localhost/edc-monitoring/public/pengajuan" class="btn btn-info">Mulai</a></p>
                     </div>
@@ -250,7 +250,7 @@
                     <div class="overlay"></div>
                     <div class="fh5co-text">
                         <i style="color: blue" class="fh5co-intro-icon icon-bulb"></i>
-                        <h2>Perbaikan EDC</h2>
+                        <h2>Data Perbaikan EDC</h2>
                         <p>Berisi data merchant yang melakukan pelaporan terkait kerusakan EDC dan status perbaikannya</p>
                         <p ><a href="http://localhost/edc-monitoring/public/perbaikan" class="btn btn-info">Mulai</a></p>
                     </div>

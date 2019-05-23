@@ -3,7 +3,7 @@
 @section('content')
 <div class="container">
     <div class="row justify-content-center">
-        <div class="col-md-10">
+        <div class="col-md-12">
             <div class="card">
                 <div class="card-header">EDC MANGGA DUA</div>
 
@@ -34,31 +34,33 @@
   <tbody>
     <tr>
       <th scope="row">1kdew92</th>
-      <td>Mark</td>
+      <td>PT Kita Bersama</td>
+      <td>Ronald Doni</td>
+      <td>12 Februari 2019</td>
       <td>Otto</td>
-      <td>@mdo</td>
-      <td>Otto</td>
-      <td>@mdo</td>
+      <td>iWL220</td>
       <td><button type="button" class="btn btn-primary"  data-toggle="modal" data-target="#modalDetail">Detail</button> 
         <a href="http://localhost/edc-monitoring/public/data_transaksi" type="button" class="btn btn-success">Data Transaksi</a></td>
     </tr>
     <tr>
       <th scope="row">2l2l332</th>
-      <td>Jacob</td>
-      <td>Thornton</td>
-      <td>@fat</td>
+      <td>CV DUA TIGA</td>
+      <td>Budi Jack</td>
+      <td>4 Januari 2019</td>
       <td>Otto</td>
-      <td>@mdo</td>
-      <td><button type="button" class="btn btn-primary">Detail</button></td>
+      <td>iCT220</td>
+      <td><button type="button" class="btn btn-primary">Detail</button>
+          <a href="http://localhost/edc-monitoring/public/data_transaksi" type="button" class="btn btn-success">Data Transaksi</a></td>
     </tr>
     <tr>
       <th scope="row">2323233</th>
-      <td>Larry</td>
-      <td>the Bird</td>
-      <td>@twitter</td>
+      <td>Larry Computer</td>
+      <td>Frank Lampard</td>
+      <td>8 Desember 2018</td>
       <td>Otto</td>
-      <td>@mdo</td>
-      <td><button type="button" class="btn btn-primary">Detail</button></td>
+      <td>VX675</td>
+      <td><button type="button" class="btn btn-primary">Detail</button>
+      <a href="http://localhost/edc-monitoring/public/data_transaksi" type="button" class="btn btn-success">Data Transaksi</a></td>
     </tr>
   </tbody>
 </table>

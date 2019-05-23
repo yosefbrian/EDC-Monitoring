@@ -22,42 +22,37 @@
 <table class="table">
   <thead>
     <tr>
-      <th scope="col">Nomor Seri</th>
-      <th scope="col">Merchant</th>
-      <th scope="col">PIC</th>
-      <th scope="col">Tanggal Terima</th>
-      <th scope="col">Jenis EDC</th>
+      <th scope="col">Nama Merchant</th>
+      <th scope="col">Nama Penghubung</th>
+      <th scope="col">Tanggal Pengajuan</th>
+      <th scope="col">Status Pengajuan</th>
       <th scope="col"> Keterangan </th>
-      <th scope="col">  </th>
+      <th scope="col"></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th scope="row">1kdew92</th>
-      <td>Mark</td>
-      <td>Otto</td>
-      <td>@mdo</td>
-      <td>Otto</td>
-      <td>@mdo</td>
-      <td><button type="button" class="btn btn-primary"  data-toggle="modal" data-target="#modalDetail">Detail</button> 
-        <a href="http://localhost/edc-monitoring/public/data_transaksi" type="button" class="btn btn-success">Data Transaksi</a></td>
+      <th scope="row">PT Komputindo</th>
+      <td>Roy Andre</td>
+      <td>09 Maret 2019</td>
+      <td>Selesai</td>
+      <td>Tukar Unit</td>
+      <td><button type="button" class="btn btn-primary"  data-toggle="modal" data-target="#modalDetail">Detail</button>
     </tr>
     <tr>
-      <th scope="row">2l2l332</th>
-      <td>Jacob</td>
-      <td>Thornton</td>
-      <td>@fat</td>
-      <td>Otto</td>
-      <td>@mdo</td>
+      <th scope="row">Jati Komputer Service</th>
+      <td>Shoddiq Jati</td>
+      <td>13 Maret 2019</td>
+      <td>Selesai</td>
+      <td>-</td>
       <td><button type="button" class="btn btn-primary">Detail</button></td>
     </tr>
     <tr>
-      <th scope="row">2323233</th>
-      <td>Larry</td>
-      <td>the Bird</td>
-      <td>@twitter</td>
-      <td>Otto</td>
-      <td>@mdo</td>
+      <th scope="row">PT MUDA BERKARYA</th>
+      <td>Larry Sam</td>
+      <td>15 April 2019</td>
+      <td>Selesai</td>
+      <td>Pergantian Spare Part</td>
       <td><button type="button" class="btn btn-primary">Detail</button></td>
     </tr>
   </tbody>
